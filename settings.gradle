@@ -1,0 +1,2 @@
+rootProject.name = "cosc195cst107finalproject"
+include ':app'
